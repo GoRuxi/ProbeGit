@@ -23,7 +23,7 @@ public class ActivitateaPrincipala extends AppCompatActivity {
                     textView.setText("Ati apasat" + textButon + " Ha,Ha,Ha");
                 break;
             case R.id.Buton2:
-                    textView.setText("Al doilea Hi Hi Hi"+textButon);
+                    textView.setText("Al doilea Hi Hi Hi"+textButon +"Git1");
                 break;
             case R.id.Buton3:
                     textView.setText("Al treilea Ho Ho Ho"+textButon);
